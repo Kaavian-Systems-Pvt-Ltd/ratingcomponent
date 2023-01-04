@@ -1,5 +1,5 @@
 # Rating Component
-### This Package allows you to have a rating a component in your project. You can use icons from react-icons-kit Only.
+### This Package allows you to have a rating a component in your project. You can use icons from react-icons-kit Only. You can get it from https://react-icons-kit.vercel.app/
 ## Note
     You have to install python in your local to use this package.
     Or 

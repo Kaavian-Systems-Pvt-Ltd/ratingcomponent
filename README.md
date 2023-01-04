@@ -13,6 +13,7 @@
  
 ```
  import Rate from '@kaavian-sys/ratingcomponent'
+ import {heart} from 'react-icons-kit/fa/heart'
 
 
 
@@ -21,7 +22,7 @@ const [X, setX] = useState(0);
  const App () = {
    return(  
       <div>  
-       <Rate rating={X} icon={any icon react-icons-kit } size={50}  onRating={(rate) => setX(rate)} />
+       <Rate rating={X} icon={ heart } size={50}  onRating={(rate) => setX(rate)} />
       </div>
  )};
  ```

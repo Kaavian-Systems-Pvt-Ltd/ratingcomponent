@@ -1,5 +1,5 @@
 # Rating Component
-### This Package allows you to have a rating a component in your project. Yu can use icons from react-icons-kit Only.
+### This Package allows you to have a rating a component in your project. You can use icons from react-icons-kit Only.
 ## Note
     You have to install python in your local to use this package.
     Or 

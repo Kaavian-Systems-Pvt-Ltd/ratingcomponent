@@ -21,10 +21,10 @@ const [X, setX] = useState(0);
 
  const App () = {
    return(  
-      <div>  
-      #### default props
+      <div> 
+### default props
       <Rate rating={X}  onRating={(rate) => setX(rate)} />
-      #### userdefined props
+### userdefined props
        <Rate rating={X} icon={ heart } size={50}  onRating={(rate) => setX(rate)} />
       </div>
  )};

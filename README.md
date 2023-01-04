@@ -1,5 +1,5 @@
 # Rating Component
-### This Package allows you to have a rating a component in your project.
+### This Package allows you to have a rating a component in your project. Yu can use icons from react-icons-kit Only.
 ## Note
     You have to install python in your local to use this package.
     Or 
@@ -33,5 +33,5 @@ const [X, setX] = useState(0);
 | icon | optional | Icon in which rating component needed | star icon ⭐ |
 | filled| optional |Color in which selected icons should be displayed | Yellow |
 | unfilled | optional |Color in which unselected icons should be displayed | Grey |
-| count | optional | No of icons neede in rating component | 5⭐ |
+| count | optional | No of icons needed in rating component | 5⭐ |
 | size | optional | size in which the icon should be displayed | 20 |
